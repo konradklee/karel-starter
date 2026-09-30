@@ -1,6 +1,6 @@
 #Karel the robot coding
 
-#This is my work from the weeks we have worked with Karel in COSC 10001 at TCU. Karel is a robot #that only knows four commands, so here is some code that works with those commands and performs #different tasks.
+#This is my work from the weeks we have worked with Karel in COSC 10001 at TCU. Karel is a robot that only knows four commands, so here is some code that works with those commands and performs different tasks.
 
 import stanford.karel.*;
 
@@ -68,5 +68,5 @@ public class MyKarel extends Karel {
     }
 }
 
-#1. I learned that Karel has very specific commands that it follows, but there are lots of #things you can do with the commands.
+#1. I learned that Karel has very specific commands that it follows, but there are lots of things you can do with the commands.
 #2. I learned that because of Karel's limitations, you have to find a way to work around them.
