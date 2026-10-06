@@ -71,5 +71,13 @@ public class MyKarel extends Karel {
         turnRight();
         move();
         pickBeeper();
+
+        //ai added code
+        turnAround();
+        move();
+        turnLeft();
+        move();
+
     }
+
 }
