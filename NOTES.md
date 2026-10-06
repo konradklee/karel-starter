@@ -1,0 +1,10 @@
+- I wrote the original Karel program, including commands like turning right, picking up beepers in the way, doubling the beepers and moving around.
+- I made the KonradWorld.w file where I placed three beepers and a wall.
+- I wrote the original program of konradWorld that moved Karel through the custom world and collect the beepers in the way.
+- I used ChatGPT as my AI agent to assist me with the AI commit.
+- I asked ChatGPT to help me extend my custom world once my program was working.
+- ChatGPT added commands that helped Karel to return to its starting position once all of the beepers had been collected.
+- ChatGPT helped me run the program even though Karel started out facing a different direction than I had intended.
+- I tested ChatGPT's code by running KonradWorld.w and making sure that it returned to its starting spot after it had collected the beepers.
+- The agent noticed that Karel was facing a different direction than it thought it started at.
+- ChatGPT helped me fix this issue by accounting for the problem by starting with the turnLeft command.
